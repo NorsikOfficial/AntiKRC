@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AntiKRC/static/css/main.f9da7252.css",
-    "main.js": "/AntiKRC/static/js/main.d0e1b44a.js",
+    "main.js": "/AntiKRC/static/js/main.abbfc61a.js",
     "index.html": "/AntiKRC/index.html",
     "main.f9da7252.css.map": "/AntiKRC/static/css/main.f9da7252.css.map",
-    "main.d0e1b44a.js.map": "/AntiKRC/static/js/main.d0e1b44a.js.map"
+    "main.abbfc61a.js.map": "/AntiKRC/static/js/main.abbfc61a.js.map"
   },
   "entrypoints": [
     "static/css/main.f9da7252.css",
-    "static/js/main.d0e1b44a.js"
+    "static/js/main.abbfc61a.js"
   ]
 }
